@@ -1,0 +1,11 @@
+
+# Pycharm
+.DS_Store
+.idea/
+
+# Python
+__pycache__/
+
+
+# Project
+records.dat
